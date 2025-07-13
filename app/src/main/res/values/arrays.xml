@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Categories for listings -->
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Clothing</item>
+        <item>Books</item>
+        <item>Sports</item>
+        <item>Home &amp; Garden</item>
+        <item>Toys &amp; Games</item>
+        <item>Vehicles</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Conditions for items -->
+    <string-array name="conditions">
+        <item>New</item>
+        <item>Like New</item>
+        <item>Good</item>
+        <item>Fair</item>
+        <item>Poor</item>
+    </string-array>
+
+    <!-- Sort options for search -->
+    <string-array name="sort_options">
+        <item>Relevance</item>
+        <item>Newest</item>
+        <item>Price: Low to High</item>
+        <item>Price: High to Low</item>
+        <item>Nearest</item>
+    </string-array>
+
+    <!-- Distance options for location-based search -->
+    <string-array name="distance_options">
+        <item>5 km</item>
+        <item>10 km</item>
+        <item>25 km</item>
+        <item>50 km</item>
+        <item>100 km</item>
+    </string-array>
+
+    <!-- Report reasons -->
+    <string-array name="report_reasons">
+        <item>Spam or Scam</item>
+        <item>Inappropriate Content</item>
+        <item>Wrong Category</item>
+        <item>Counterfeit Item</item>
+        <item>Already Sold</item>
+        <item>Other</item>
+    </string-array>
+</resources>
